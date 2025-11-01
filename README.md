@@ -1,7 +1,6 @@
 This project is a **responsive sidebar navigation menu** built using **HTML and CSS only**, with Font Awesome icons and Google Fonts integration.  
 The sidebar slides in and out smoothly using a simple checkbox toggle trick — no JavaScript needed!
 
----
 
 ## 📋 Features
 
